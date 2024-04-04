@@ -9,13 +9,14 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1. Import Libraries:,Load Data:
-2.Encode Categorical Data:Use LabelEncoder to convert the categorical variable 'salary' into numerical format.
-3.Define Features and Target:Select the relevant columns as features (X) and the target variable (y).
-4.split the data using test_train_split
-5.Initialize Model:
-6.Make Predictions:
-7.Evaluate Model:
-8.Predict on New Data:
+2. Encode Categorical Data:Use LabelEncoder to convert the categorical variable 'salary' into numerical format.
+3. Define Features and Target:Select the relevant columns as features (X) and the target variable (y).
+4. split the data using test_train_split
+5. Initialize Model:
+6. Make Predictions:
+7. Evaluate Model:
+8. Predict on New Data:
+
 
 
 ## Program:
