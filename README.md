@@ -56,6 +56,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### Encoder:
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742402/e5b1cfe0-435a-4a40-b537-f81daf2497dc)
 ### X-values and y-values
+![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742402/02eb9fc1-8a0f-4e3d-bfea-980444d3e35a)
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742402/b7dbbf0a-176b-42f8-9c05-bae5f811696c)
 ### Accuracy and Prediction
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742402/bef4cc93-2dd4-47d8-9d9b-bc8f528e1e71)
